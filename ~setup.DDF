@@ -1,0 +1,29 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=C:\Users\User\Desktop\WarsGhost Minecraft Install\WarsGhostMinecraft\WarsGhostMinecraft\bin\publish\~setup.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=C:\Users\User\Desktop\WarsGhost Minecraft Install\WarsGhostMinecraft\WarsGhostMinecraft\bin\publish\~setup_LAYOUT.INF
+.Set RptFileName=C:\Users\User\Desktop\WarsGhost Minecraft Install\WarsGhostMinecraft\WarsGhostMinecraft\bin\publish\~setup.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\setup.exe
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\Launcher.exe
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\PUBLIS~1.HTM
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\WARSGH~1.APP
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\WARSGH~1.JSO
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\WARSGH~1.DLL
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\WARSGH~1.EXE
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\WARSGH~1.PDB
+C:\Users\User\Desktop\WARSGH~1\WARSGH~1\WARSGH~1\bin\publish\WARSGH~2.JSO
